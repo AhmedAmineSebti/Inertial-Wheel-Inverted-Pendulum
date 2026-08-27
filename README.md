@@ -6,6 +6,11 @@ A 3D-modeled and 3D-printed inertia wheel inverted pendulum (reaction wheel pend
 
 This project is a mechanical and electromechanical build of an inertia wheel pendulum, designed and modeled in CAD before being 3D printed and assembled. The system consists of a pendulum arm free to rotate about a base pivot, topped with a reaction wheel that is directly driven by a brushless motor. By controlling the acceleration/deceleration of the wheel, a reaction torque is applied to the pendulum arm, which can be used to swing it up and balance it at the unstable equilibrium point.
 
+## Photos
+
+![Inertia wheel pendulum assembly](images/photo1.jpg)
+![Inertia wheel pendulum assembly](images/photo2.jpg)
+
 ## Hardware
 
 - **Motor:** REV Robotics NEO brushless motor — drives the reaction/inertia wheel
