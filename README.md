@@ -8,8 +8,8 @@ This project is a mechanical and electromechanical build of an inertia wheel pen
 
 ## Photos
 
-![Inertia wheel pendulum assembly](images/photo1.jpg)
-![Inertia wheel pendulum assembly](images/photo2.jpg)
+![Inertia wheel pendulum assembly](images/photo1.png)
+![Inertia wheel pendulum assembly](images/photo2.png)
 
 ## Hardware
 
